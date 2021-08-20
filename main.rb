@@ -7,3 +7,8 @@ puts "hello"
 # git commit -m 'describe what you did since last commit'
 
 ## create a function that adds two numbers
+def add(num1, num2)
+  return num1 + num2
+end
+
+puts add(2, 2)
