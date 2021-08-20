@@ -16,3 +16,7 @@ puts add(2, 2)
 def minus(num1, num2)
   num1 - num2
 end
+
+def times(num1, num2)
+  num1 * num2
+end
