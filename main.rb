@@ -35,4 +35,14 @@ end
 # repeat this until you are ready to push
 # to github
 
+## to push to github
+## make sure all the changes you want to push to
+## github are commited
+
 ## git push origin master/main
+
+# creating a repo on github
+# new repo in github
+# copy the
+# remote add origin .....
+# paste that in terminal
