@@ -32,4 +32,7 @@ end
 # pick a chuck of work to do, get it working
 # git add .  or (files you want to commit)
 # git commit -m 'describe the work you did'
-# repeat this
+# repeat this until you are ready to push
+# to github
+
+## git push origin master/main
